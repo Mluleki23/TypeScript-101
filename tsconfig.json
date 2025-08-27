@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "outDir": "./dist",
+    "rootDir": "./SCR",
+    "strict": true,
+    "module": "ES6"
+  }
+}
